@@ -81,6 +81,7 @@ button {
   font-weight: 700;
   text-transform: uppercase;
   color: #4d5ae5;
+  display: inline-block;
 }
 
 .logo-part {
@@ -298,7 +299,6 @@ button {
 }
 
 .footer-logo {
-  display: inline-block;
   margin-bottom: 16px;
 }
 
