@@ -299,6 +299,14 @@ button {
 }
 
 .footer-logo {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  display: inline-block;
   margin-bottom: 16px;
 }
 
